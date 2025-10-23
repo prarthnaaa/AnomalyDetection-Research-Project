@@ -16,8 +16,7 @@ A dataset simulating network traffic in an ICU environment, focusing on securing
 * **environmentMonitoring.csv:** Network activity logs from environmental sensors.
 
 **Dataset Link:**
-
-[IoT Healthcare Security Dataset (Kaggle)](https://www.kaggle.com/datasets/faisalmalik/iot-healthcare-security-dataset)
+1. [IoT Healthcare Security Dataset (Kaggle)](https://www.kaggle.com/datasets/faisalmalik/iot-healthcare-security-dataset)
 
 ### **2. CIC-IDS-2017 / Network Intrusion Dataset**
 
@@ -29,7 +28,6 @@ A standard dataset for network intrusion detection, containing labeled traffic d
 * **DDoS:** Overloading a server with traffic to disrupt services.
 
 **Dataset Links:**
-
 1. [Network Intrusion Dataset (Kaggle)](https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset)
 2. [CIC-IDS2017 Dataset (Canadian Institute for Cybersecurity)](https://www.unb.ca/cic/datasets/ids-2017.html)
 
@@ -65,4 +63,5 @@ Ishika Agarwal, Krishna Girish, Prarthna Puhan, Ramanathan L
 ## Conference Presentation
 
 This paper was presented at the **Congress on Smart Computing Technologies (CSCT)** at **NIT Sikkim** in **December 2024**.
+
 
