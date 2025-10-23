@@ -1,7 +1,3 @@
-Here’s your clean, final version with a separate **“Conference Presentation”** section and all contributors on a single line:
-
----
-
 # Enhancing Anomaly Detection in IoT Systems with an Ensemble of Machine Learning Algorithms
 
 ## Introduction
@@ -69,3 +65,4 @@ Ishika Agarwal, Krishna Girish, Prarthna Puhan, Ramanathan L
 ## Conference Presentation
 
 This paper was presented at the **Congress on Smart Computing Technologies (CSCT)** at **NIT Sikkim** in **December 2024**.
+
